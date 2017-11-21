@@ -1,5 +1,5 @@
-Using Create-React-App, make web page, show the infomation of the movie.
-This is sample page : https://nomadcoders.github.io/movie_app/
+Using Create-React-App, make web page, show the infomation of the movie.<br/>
+This is sample page : https://nomadcoders.github.io/movie_app/ <br/>
 Below is CRA's readme.md
 
 -----------------------------------------------------------------------------------------------------------------------------
