@@ -1,3 +1,9 @@
+Using Create-React-App, make web page, show the infomation of the movie.
+This is sample page : https://nomadcoders.github.io/movie_app/
+Below is CRA's readme.md
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
